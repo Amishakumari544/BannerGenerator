@@ -1,0 +1,24 @@
+{
+  "name": "banner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amishakumari544/BannerGenerator.git"
+  },
+  "description": "A simple and clean banner generator",
+  "author": "amisha",
+  "version": "0.1.9",
+  "devDependencies": {
+    "jshint": "^2.10.2",
+    "workbox-build": "^6.4.2"
+  },
+  "scripts": {
+    "test": "jshint travis.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Amishakumari544/BannerGenerator/issues"
+  },
+  "homepage": "https://github.com/Amishakumari544/BannerGenerator#readme",
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC"
+}

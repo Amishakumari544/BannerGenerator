@@ -6,8 +6,8 @@
 
 <div align="center">
   <br>
-<!--   <img src="icons/screely.png" alt="banner" width="100%"> -->
   <img src="icons/screely2.png" alt="banner" width="100%">
+  <img src="images/demo3.png" alt="banner" width="100%">
   <br>
 </div>
 

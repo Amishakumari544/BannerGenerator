@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  <img src="icons/screely2.png" alt="banner" width="100%">
+<!--   <img src="icons/screely2.png" alt="banner" width="100%"> -->
   <img src="images/demo3.png" alt="banner" width="100%">
   <br>
 </div>
@@ -54,8 +54,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspirations:
-	* [Dribbble](https://dribbble.com)

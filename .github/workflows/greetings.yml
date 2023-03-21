@@ -14,6 +14,4 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Thank you for opening the issue welcome to amisha repo"
         pr-message: "Thank you for opening the pull-request welcome to amisha repo"
-    - name: conventional-pr-title
-      uses: aslafy-z/conventional-pr-title-action@v2.2.0
 

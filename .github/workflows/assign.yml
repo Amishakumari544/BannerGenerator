@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Assign the user or unassign stale assignments
-        uses: JasonEtco/slash-assign-action@v1
+        uses: Amishakumari544/slash-assign-action@v1
         with:
           required_label: good-first-issue
           assigned_label: assigned-to-contributor

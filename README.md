@@ -38,7 +38,9 @@ You're done!
 
 ---
 
+## Author
 
+Made by Amisha.
 
 ## Contributing
 

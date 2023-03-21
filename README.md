@@ -40,7 +40,7 @@ You're done!
 
 ## Author
 
-Created by Amisha
+Created by Amisha Kumari.
 
 ## Contributing
 
